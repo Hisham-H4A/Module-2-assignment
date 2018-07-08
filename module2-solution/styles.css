@@ -5,6 +5,11 @@ h1
   font-family: corbel;
  }
 
+p 
+{
+padding:5px;
+}
+
 div div
  {
   background-color: gray;
